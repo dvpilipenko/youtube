@@ -1,0 +1,8 @@
+.List-item {
+    display: flex;
+    padding: 10px;
+}
+
+.List-item-title {
+    padding-left: 8px;
+}
